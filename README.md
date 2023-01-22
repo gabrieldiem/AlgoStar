@@ -48,6 +48,8 @@ $ java -jar <filename.jar>
 
 For Windows users it is also provided a `.exe` executable file, also in the [releases](https://github.com/walgab/AlgoStar/releases/latest) tab, that serves as a self contained version of the game, meaning you do not need a JRE (Java Runtime Environment) to run this file, it comes with it included. You just have to run it and it is playable.
 
+_Warning_: The executable file may trigger a warning from your antivirus software. This is a known issue and it is caused by the fact that the executable is signed with a self-signed certificate. This does not mean that the file is unsafe or malicious. If you wish to proceed with running the executable, you may need to add an exception for the file in your antivirus software or disable the antivirus temporarily. We recommend only disabling the antivirus temporarily and after running the file, please remember to turn it on again. As a general rule, it is advised to only run executable files from sources you trust. I apologize for any inconvenience this may cause. If you have any concerns or questions, please reach out.
+
 This Windows executable was made by creating a launcher for the `.jar` file with [Launch4J](https://launch4j.sourceforge.net/) and linking it with the corresponding JRE (version 11.0.18). Then this was bundled in a SFX (Self-Extracting Archive) file with [7-Zip](https://www.7-zip.org/) and [7-Zip SFX Maker](https://sourceforge.net/projects/sfx-maker/), resulting in a `.exe` file that extracts the JRE and the game itself to a temporary folder (in the Windows `TEMP` directory) so it can be run.
 
 ## Development

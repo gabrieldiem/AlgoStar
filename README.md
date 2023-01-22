@@ -2,7 +2,11 @@
     <img src="./docs/img/AlgoStar_banner_space_bg.png" alt="AlgoStar Banner">
 </p>
 
+<div align="center">
+
 ![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![es](https://img.shields.io/badge/lang-es-orange.svg)](https://github.com/walgab/AlgoStar/blob/master/README.es.md)
+
+</div>
 
 # Project 2 - Algorithms and Programming 3: **AlgoStar**
 

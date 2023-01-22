@@ -1,8 +1,10 @@
+![AlgoStar Banner](./docs/img/AlgoStar_banner_space_bg.png)
+
 ![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/AlgoStar#readme)
 
 # Trabajo Práctico 2 - Algoritmos y Programación 3: **AlgoStar**
 
-Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA.
+Trabajo Práctico número 2 de la materia _Algoritmos y Programación III_ [75.07 - 95.02] de FIUBA.
 
 La documentación, los nombres de variables y los nombres de funciones están escritos principalmente en español ya que es el idioma en el que se dicta el curso.
 
@@ -39,3 +41,19 @@ El informe se puede encontrar en el siguiente [enlace](./docs/Informe_TP2_AlgoSt
 ## Licencia
 
 Este repositorio se encuentra bajo la Licencia MIT.
+
+## Imágenes
+
+![Imagen 1](./docs/img/img1.jpg)
+
+![Imagen 2](./docs/img/img2.jpg)
+
+![Imagen 3](./docs/img/img3.jpg)
+
+![Imagen 4](./docs/img/img4.png)
+
+![Imagen 5](./docs/img/img5.png)
+
+![Imagen 6](./docs/img/img6.png)
+
+![Imagen 7](./docs/img/img7.png)

@@ -1,8 +1,10 @@
+![AlgoStar Banner](./docs/img/AlgoStar_banner_space_bg.png)
+
 ![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![es](https://img.shields.io/badge/lang-es-orange.svg)](https://github.com/walgab/AlgoStar/blob/master/README.es.md)
 
 # Project 2 - Algorithms and Programming 3: **AlgoStar**
 
-Project number 2 for the subject Algorithms and Programming 3 at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
+Project number 2 for the subject _Algorithms and Programming 3_ [75.07 - 95.02] at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
 
 The documentation, variable names and functions names are mostly written in Spanish as it is the language the course is teached on.
 
@@ -25,7 +27,7 @@ This project consists of developing a turn-based game inspired by the famous vid
 The most recent version of the app can be found in the tab [releases](https://github.com/walgab/AlgoStar/releases/latest) and it can be executed in Linux, Windows or Mac by running the next command:
 
 ```bash
-$ java -jar <archivo.jar>
+$ java -jar <filename.jar>
 ```
 
 ## Development
@@ -39,3 +41,19 @@ The project report can be found in the next [link](./docs/Informe_TP2_AlgoStar_A
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Images
+
+![Image 1](./docs/img/img1.jpg)
+
+![Image 2](./docs/img/img2.jpg)
+
+![Image 3](./docs/img/img3.jpg)
+
+![Image 4](./docs/img/img4.png)
+
+![Image 5](./docs/img/img5.png)
+
+![Image 6](./docs/img/img6.png)
+
+![Image 7](./docs/img/img7.png)

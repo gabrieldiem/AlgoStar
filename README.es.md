@@ -1,4 +1,4 @@
-![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/AlgoStar)
+![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/AlgoStar#readme)
 
 # Trabajo Práctico 2 - Algoritmos y Programación 3: **AlgoStar**
 

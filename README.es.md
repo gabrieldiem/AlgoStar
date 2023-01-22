@@ -28,13 +28,26 @@ El trabajo práctico consiste en desarrollar un juego por turnos inspirado en el
 
 **Corrector:** [Pablo Rodríguez Massuh](https://github.com/xpitr256)
 
+## Software usado
+
+| Software | Versión |
+| -------- | ------- |
+| Java SDK | 11.0.7  |
+| JavaFX   | 19      |
+| JUnit    | 5.4     |
+| Maven    | 3.8.6   |
+
 ## Aplicación
 
-La versión más reciente de la aplicación puede encontrarse en la pestaña [releases](https://github.com/walgab/AlgoStar/releases/latest) y ejecutarse en Linux, Windows o Mac de esta forma:
+La versión más reciente de la aplicación puede encontrarse en la pestaña [releases](https://github.com/walgab/AlgoStar/releases/latest) y el archivo `.jar` se puede ejecutar en Linux, Windows o Mac de esta forma:
 
 ```bash
 $ java -jar <archivo.jar>
 ```
+
+Para usuarios de Windows se provee un archivo ejecutable `.exe`, que también está en la pestaña [releases](https://github.com/walgab/AlgoStar/releases/latest), funciona como una versión completamente contenida del juego, es decir, que no se necesita tener un JRE (Java Runtime Environment) instalado para ejecutar el archivo, ya que viene incluido. Sólo se necesita ejecutar el archivo y ya es jugable.
+
+Este ejecutable para Windows fue hecho creando un launcher para el archivo `.jar` con [Launch4J](https://launch4j.sourceforge.net/) y vinculándolo con el correspondiente JRE (versión 11.0.18). Luego se empaquetó esto en in archivo SFX (Self-Extracting Archive) con [7-Zip](https://www.7-zip.org/) y [7-Zip SFX Maker](https://sourceforge.net/projects/sfx-maker/), resultando en un archivo `.exe` que extrae el JRE y el juego mismo en una carpeta temporal (en el directorio `TEMP` de Windows) para que se pueda correr.
 
 ## Desarrollo
 

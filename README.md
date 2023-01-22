@@ -28,13 +28,27 @@ This project consists of developing a turn-based game inspired by the famous vid
 
 **Evaluator:** [Pablo Rodríguez Massuh](https://github.com/xpitr256)
 
+## Software used
+
+| Software | Version |
+| -------- | ------- |
+| Java SDK | 11.0.7  |
+| JavaFX   | 19      |
+| JUnit    | 5.4     |
+| Maven    | 3.8.6   |
+
+
 ## App
 
-The most recent version of the app can be found in the tab [releases](https://github.com/walgab/AlgoStar/releases/latest) and it can be executed in Linux, Windows or Mac by running the next command:
+The most recent version of the app can be found in the [releases](https://github.com/walgab/AlgoStar/releases/latest) tab and the `jar` file can be executed in Linux, Windows or Mac by running the next command:
 
 ```bash
 $ java -jar <filename.jar>
 ```
+
+For Windows users it is also provided a `.exe` executable file, also in the [releases](https://github.com/walgab/AlgoStar/releases/latest) tab, that serves as a self contained version of the game, meaning you do not need a JRE (Java Runtime Environment) to run this file, it comes with it included. You just have to run it and it is playable.
+
+This Windows executable was made by creating a launcher for the `.jar` file with [Launch4J](https://launch4j.sourceforge.net/) and linking it with the corresponding JRE (version 11.0.18). Then this was bundled in a SFX (Self-Extracting Archive) file with [7-Zip](https://www.7-zip.org/) and [7-Zip SFX Maker](https://sourceforge.net/projects/sfx-maker/), resulting in a `.exe` file that extracts the JRE and the game itself to a temporary folder (in the Windows `TEMP` directory) so it can be run.
 
 ## Development
 

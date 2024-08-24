@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/walgab/AlgoStar#readme)
+![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![en](https://img.shields.io/badge/read_in-english_%F0%9F%87%AC%F0%9F%87%A7-darkblue?style=flat)](https://github.com/walgab/AlgoStar#readme)
 
 </div>
 
 # Trabajo Práctico 2 - Algoritmos y Programación 3: **AlgoStar**
 
-Trabajo Práctico número 2 de la materia _Algoritmos y Programación III_ [75.07 - 95.02] de FIUBA.
+Trabajo Práctico número 2 de la materia _Algoritmos y Programación III_ [75.07 - 95.02] curso Suárez 2Q2022 de FIUBA.
 
 La documentación, los nombres de variables y los nombres de funciones están escritos principalmente en español ya que es el idioma en el que se dicta el curso.
 

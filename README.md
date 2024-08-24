@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![es](https://img.shields.io/badge/lang-es-orange.svg)](https://github.com/walgab/AlgoStar/blob/master/README.es.md)
+![tp2](https://github.com/walgab/AlgoStar/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/walgab/AlgoStar/branch/master/graph/badge.svg)](https://codecov.io/gh/walgab/AlgoStar) [![es](https://img.shields.io/badge/leer_en-espa%C3%B1ol_%F0%9F%87%AA%F0%9F%87%B8-darkgreen?style=flat)](https://github.com/walgab/AlgoStar/blob/master/README.es.md)
 
 </div>
 
 # Project 2 - Algorithms and Programming 3: **AlgoStar**
 
-Project number 2 for the subject _Algorithms and Programming 3_ [75.07 - 95.02] at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
+Project number 2 for the subject _Algorithms and Programming 3_ [75.07 - 95.02] Suarez's course 1Q2023 at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
 
 The documentation, variable names and functions names are mostly written in Spanish as it is the language the course is teached on.
 

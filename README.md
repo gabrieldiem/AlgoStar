@@ -10,7 +10,7 @@
 
 # Project 2 - Algorithms and Programming 3: **AlgoStar**
 
-Project number 2 for the subject _Algorithms and Programming 3_ [75.07 - 95.02] Suarez's course 1Q2023 at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
+Project number 2 for the subject _Algorithms and Programming 3_ [75.07 - 95.02] Suarez's course 2Q2022 at the Faculty of Engineering of the University of Buenos Aires (FIUBA).
 
 The documentation, variable names and functions names are mostly written in Spanish as it is the language the course is teached on.
 

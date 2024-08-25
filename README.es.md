@@ -78,3 +78,11 @@ Este repositorio se encuentra bajo la Licencia MIT.
 ![Imagen 6](./docs/img/img6.png)
 
 ![Imagen 7](./docs/img/img7.png)
+
+## Assets de terceros
+
+Este proyecto incluye imágenes, contenido visual, música y sonidos derivados de Starcraft 1.
+
+### Atribución
+
+Algunas imágenes, contenido visual, música y sonidos en este videojuego están derivados de Starcraft 1 y son propiedad con derechos de autor de Blizzard Entertainment, una subsidiaria de Activision Blizzard, Inc. Todos los derechos sobre estos activos están completamente reservados por Blizzard Entertainment. Este proyecto no está afiliado, respaldado ni asociado de ninguna manera con Blizzard Entertainment. El uso de estos activos tiene como único propósito fines no comerciales.

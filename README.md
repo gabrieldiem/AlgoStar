@@ -79,3 +79,11 @@ This project is licensed under the terms of the MIT license.
 ![Image 6](./docs/img/img6.png)
 
 ![Image 7](./docs/img/img7.png)
+
+## Third-Party Assets
+
+This project includes images, visual content, music, and sounds derived from Starcraft 1.
+
+### Attribution
+
+Certain images, visual content, music, and sounds on this videogame are derived from Starcraft 1 and are the copyrighted property of Blizzard Entertainment, a subsidiary of Activision Blizzard, Inc. All rights to these assets are fully reserved by Blizzard Entertainment. This project is not affiliated with, endorsed by, or associated with Blizzard Entertainment in any way. The use of these assets is intended solely for non-commercial purposes.
